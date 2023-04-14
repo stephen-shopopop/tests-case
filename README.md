@@ -10,21 +10,26 @@ Edit the [slides.md](./slides.md) to see the changes.
 
 Learn more about Slidev on [documentations](https://sli.dev/).
 
-
-OR 
+OR
 
 Install slidedev in global
 
-```
+```shell
 npm i -g @slidev/cli
 ```
 
 And anywhere use command:
 
-```
+```shell
 slidev // if file not exist a default template is create
 
 or 
 
 slidev myslide.md // specific file
 ```
+
+---
+
+References:
+
+- [nodejs tests best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
