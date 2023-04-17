@@ -72,6 +72,12 @@ expect(function).toBe(null)
 layout: center
 ---
 
+# ISSUES
+
+---
+layout: center
+---
+
 # Les tests de composant pourrait être ton meilleur arrangement
 
 ✅ À faire: Chaque test unitaire couvre une petite portion de l'application et il est coûteux de couvrir l'ensemble, alors que les tests end-to-end couvrent facilement une grande partie mais sont lent, pourquoi ne pas appliquer une approche intermédiaire et écrire des tests qui sont plus gros que les tests unitaires mais plus petits que les tests end-to-end ? Les tests de composant (Component testing) sont méconnus du monde de test mais ils offrent le meilleur des deux mondes: des performances raisonnable et la possibilité d'appliquer le pattern TDD + une couverture correcte et réaliste
