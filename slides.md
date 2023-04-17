@@ -3,9 +3,9 @@ theme: seriph
 titleTemplate: '%s - testsCase'
 # enable presenter mode, can be boolean, 'dev' or 'build'
 presenter: true
-download: true
+download: false
 # enable slide recording, can be boolean, 'dev' or 'build'
-record: 'build'
+record: 'dev'
 exportFilename: testsCase-exported
 export:
   format: pdf
